@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Agent Certification Platform
 
 **Flow**
@@ -109,3 +110,6 @@ src/lib/live/*                               browser: Gemini Live WebSocket, aud
 | GET/PUT | `/api/settings/email`, POST `/api/settings/email/test` |
 | GET | `/api/analytics?process_id=&from=&to=` (overview, sections, parameters, pareto, processes, agents) |
 | POST | `/api/certifications/{id}/recertify` `{ send_email?, force? }` |
+=======
+# UpdateAiAgentCertification
+>>>>>>> ee06fd76fb0e7f3c90dfe6cbb2fb798e913e501c
