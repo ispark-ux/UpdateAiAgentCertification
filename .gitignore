@@ -1,0 +1,10 @@
+node_modules
+.next
+.env
+recordings/*
+!recordings/.gitkeep
+data/results/*
+!data/results/.gitkeep
+data/agents.json
+data/settings.json
+data/email_logs.json
